@@ -1,3 +1,5 @@
+#参考文献
+https://cloud.tencent.com/developer/article/1957186
 # SimpleXORshellcode
 XOR shellcode,and use loader load it
 ## use:
