@@ -1,4 +1,4 @@
-#参考文献
+#参考文献-自写加载器
 https://cloud.tencent.com/developer/article/1957186
 # SimpleXORshellcode
 XOR shellcode,and use loader load it
